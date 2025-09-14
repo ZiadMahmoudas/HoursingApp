@@ -1,0 +1,1 @@
+import{Ab as i,Pb as p,bb as r,zb as a}from"./chunk-67RXKNJQ.js";var n=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=r({type:e,selectors:[["app-birthparty"]],decls:2,vars:0,template:function(t,s){t&1&&(a(0,"p"),p(1,"birthparty works!"),i())},encapsulation:2})};export{n as Birthparty};

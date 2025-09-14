@@ -1,0 +1,1 @@
+import{Ab as i,Pb as s,bb as m,zb as a}from"./chunk-67RXKNJQ.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=m({type:t,selectors:[["app-summer-residential-camp"]],decls:2,vars:0,template:function(e,p){e&1&&(a(0,"p"),s(1,"summer-residential-camp works!"),i())},encapsulation:2})};export{n as SummerResidentialCamp};

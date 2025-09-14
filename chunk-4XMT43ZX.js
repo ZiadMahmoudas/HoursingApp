@@ -1,0 +1,1 @@
+import{Ab as a,Pb as i,bb as s,zb as o}from"./chunk-67RXKNJQ.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["app-day-with-horses"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),i(1,"day-with-horses works!"),a())},encapsulation:2})};export{n as DayWithHorses};

@@ -1,0 +1,1 @@
+import{Ab as a,Pb as i,bb as n,zb as o}from"./chunk-67RXKNJQ.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-learn-to-ride"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),i(1,"learn-to-ride works!"),a())},encapsulation:2})};export{r as LearnToRide};
