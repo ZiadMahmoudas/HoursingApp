@@ -1,0 +1,1 @@
+import{Fb as i,Xa as s,pb as o,qb as a}from"./chunk-LPYPATMU.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["app-day-with-horses"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),i(1,"day-with-horses works!"),a())},encapsulation:2})};export{n as DayWithHorses};
