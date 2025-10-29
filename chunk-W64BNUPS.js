@@ -1,1 +1,0 @@
-import{Fb as m,Xa as a,pb as s,qb as t}from"./chunk-LPYPATMU.js";var n=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=a({type:o,selectors:[["app-summer-holiday-pony-days"]],decls:2,vars:0,template:function(e,y){e&1&&(s(0,"p"),m(1,"summer-holiday-pony-days works!"),t())},encapsulation:2})};export{n as SummerHolidayPonyDays};
